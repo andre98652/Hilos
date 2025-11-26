@@ -8,10 +8,10 @@ Se utiliza **Jetpack Compose** para la UI, un **ViewModel** para manejar la lóg
 ## 👥 Integrantes del Equipo
 
 - Delgado Allpan, Andree David
-- Delgado Allpan, Andree David
+- Hilacondo Begazo, Andre Jimmy
 - Escobedo Ocaña, Jorge Luis
-Roque Quispe, William Isaias
-- Gordillo Mendoza, Jose Alonzo Roque Quispe, William Jimmy Hilacondo Begazo, Andre Jimmy Roque Quispe, Andre Jimmy Roque Quispe, Andre Jimmy
+- Roque Quispe, William Isaias
+- Gordillo Mendoza, Jose Alonzo  
 
 ---
 
