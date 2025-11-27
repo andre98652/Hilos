@@ -91,6 +91,3 @@ Android evita que la UI se congele siguiendo esta estrategia:
 
 ### ⚡ Resultado final
 Una app que ejecuta tareas pesadas sin congelar la interfaz, mostrando claramente los hilos involucrados en el flujo.
-
----
-> 🏆 Con esto se cumple la tarea: demostrar el manejo de hilos y background execution en Android moderno con Compose + ViewModel + Coroutines + WorkManager.
